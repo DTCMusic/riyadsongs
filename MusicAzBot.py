@@ -33,7 +33,7 @@ bot = Client(
 ## Əmrlər --------------------------------
 @bot.on_message(filters.command(['start']))
 def start(client, message):
-    MusicAzBot = f'[👋](https://te.legra.ph/file/01f12da067a1340352710.jpg) Salam @{message.from_user.username}\n\nℹ️ Bu bot ilə istədiyiniz musiqi və video yükləyə bilərsiniz\n\nYükləmək üçün:\n1) /song (musiqi adı)\n2) /video (video adı)'
+    MusicAzBot = f'[👋](https://images.app.goo.gl/QAktswT3VS7msdHN7) Salam @{message.from_user.username}\n\nℹ️ Bu bot ilə istədiyiniz musiqi və video yükləyə bilərsiniz\n\nYükləmək üçün:\n1) /song (musiqi adı)\n2) /video (video adı)'
     message.reply_text(
         text=MusicAzBot, 
         quote=False,
