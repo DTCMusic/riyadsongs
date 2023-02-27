@@ -19,17 +19,17 @@
     "env": {
         "API_ID": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "29138904",
+            "value": "16102648",
             "required": true
         },
         "API_HASH": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "0cdbc65bf2e0984ad00464dfd871e90c",
+            "value": "378a73e340eb634cf67c8c42bafa9f37",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "@Botfather botundan ala bilərsiniz.",
-            "value": "5955684071:AAEsLBFCiZOSPSJUGjCYMHanEN0Y2QdACRw",
+            "value": "5831058141:AAHzICeQsVgmkH6GDgAhHNA_vYkLZ-naa4U",
             "required": true
         },
         "PLAYLIST_NAME": {
@@ -49,7 +49,7 @@
         },
         "BOT_USERNAME": {
             "description": "Botun istifadəçi adını @ bu işarə olmadan yazın.",
-            "value": "TTKSongBot",
+            "value": "N1SongBot",
             "required": true
         },
         "CHANNEL": {
