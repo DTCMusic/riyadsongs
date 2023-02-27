@@ -19,12 +19,12 @@
     "env": {
         "API_ID": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "12878302",
+            "value": "29138904",
             "required": true
         },
         "API_HASH": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "1ce756e879790d465304f48c36294883",
+            "value": "0cdbc65bf2e0984ad00464dfd871e90c",
             "required": true
         },
         "BOT_TOKEN": {
@@ -49,7 +49,7 @@
         },
         "BOT_USERNAME": {
             "description": "Botun istifadəçi adını @ bu işarə olmadan yazın.",
-            "value": "DTGSongBot",
+            "value": "TTKSongBot",
             "required": true
         },
         "CHANNEL": {
