@@ -29,7 +29,7 @@
         },
         "BOT_TOKEN": {
             "description": "@Botfather botundan ala bilərsiniz.",
-            "value": "5809046574:AAFJ2sKtZ33gB_qYEO8loCWprz1dbldG9R8",
+            "value": "5955684071:AAEsLBFCiZOSPSJUGjCYMHanEN0Y2QdACRw",
             "required": true
         },
         "PLAYLIST_NAME": {
