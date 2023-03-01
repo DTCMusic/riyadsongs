@@ -19,17 +19,17 @@
     "env": {
         "API_ID": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "16102648",
+            "value": "29138904",
             "required": true
         },
         "API_HASH": {
             "description": "my.telegram.org saytından ala bilərsiniz.",
-            "value": "378a73e340eb634cf67c8c42bafa9f37",
+            "value": "0cdbc65bf2e0984ad00464dfd871e90c",
             "required": true
         },
         "BOT_TOKEN": {
             "description": "@Botfather botundan ala bilərsiniz.",
-            "value": "5831058141:AAHzICeQsVgmkH6GDgAhHNA_vYkLZ-naa4U",
+            "value": "6262585395:AAHhCNhGDs-1pDdvbwSLlQucyOmV5mGurg4",
             "required": true
         },
         "PLAYLIST_NAME": {
