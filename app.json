@@ -29,7 +29,7 @@
         },
         "BOT_TOKEN": {
             "description": "@Botfather botundan ala bilərsiniz.",
-            "value": "6262585395:AAHhCNhGDs-1pDdvbwSLlQucyOmV5mGurg4",
+            "value": "6109967361:AAEXZWE1hSoeHeadEDCiEyZMMuIoF7BDH8w",
             "required": true
         },
         "PLAYLIST_NAME": {
@@ -39,22 +39,22 @@
         },
         "PLAYLIST_ID": {
             "description": "Playlist kanalın ID-ni yazın.",
-            "value": "-1001726242069",
+            "value": "-1001705079927",
             "required": true
         },
         "BOT_OWNER": {
             "description": "Öz istifadəçi adınızı @ bu işarə olmadan yazın.",
-            "value": "RiyadAndMe",
+            "value": "WinstonAndMee",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "Botun istifadəçi adını @ bu işarə olmadan yazın.",
-            "value": "N1SongBot",
+            "value": "ModernSongBot",
             "required": true
         },
         "CHANNEL": {
             "description": "Kanal istifadəçi adı @ olmadan yerləşdirin.",
-            "value": "RiyaddBlogg",
+            "value": "NewModernBlog",
             "required": true            
         }
     },
